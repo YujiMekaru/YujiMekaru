@@ -1,7 +1,7 @@
 Gustavo Yuji Mekaru
-- Atualmente cursando Ciência da Computação na UTFPR-PG.
-- Estagiando na empresa MadeInWeb & Mobile como Desenvolvedor C#.
-- Estudando REST APIs com .NET 6 + EF Core + MySql + JWT.
+- Cursando Ciência da Computação na UTFPR-PG.
+- Trabalhando na empresa MadeInWeb & Mobile como Desenvolvedor Full-stack.
+- .NET | Node.js | Vue.js | T-Sql | PL-Sql
 
 <!---
 YujiMekaru/YujiMekaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
